@@ -1,0 +1,46 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(89): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(107): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(203): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(204): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(211): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(212): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(283): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(291): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(305): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(306): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(319): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(348): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(350): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(352): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(354): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(357): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(358): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(359): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(360): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(372): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(374): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(376): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(378): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(384): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(385): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(386): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Pacman\Pacman.cpp(387): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.vcxproj -> C:\Users\b020287j\OneDrive - Staffordshire University\Fundamentals of Game and Graphical Systems\Pacman\Debug\Pacman.exe
